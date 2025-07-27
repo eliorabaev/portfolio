@@ -1,0 +1,154 @@
+{
+    "name": "Elior Abaev",
+    "headerTaglineOne": "Hey 👋",
+    "headerTaglineTwo": "I'm Elior Abaev - a",
+    "headerTaglineThree": "Full Stack Developer",
+    "headerTaglineFour": "driving business growth through technology.",
+    "showCursor": false,
+    "showBlog": false,
+    "darkMode": true,
+    "showResume": true,
+    "socials": [
+        {
+            "id": "1",
+            "title": "Github",
+            "link": "https://github.com/eliorabaev"
+        },
+        {
+            "id": "2",
+            "title": "LinkedIn",
+            "link": "https://www.linkedin.com/in/elior-abaev/"
+        },
+        {
+            "id": "3",
+            "title": "Email",
+            "link": "mailto:elior.abaev@gmail.com"
+        },
+        {
+            "id": "4",
+            "title": "Phone",
+            "link": "tel:+972523549139"
+        }
+    ],
+    "projects": [
+        {
+            "id": "1",
+            "title": "Budget Management Application",
+            "description": "AI-Powered Financial Management System with React & FastAPI",
+            "imageSrc": "/images/BudgetApp.png",
+            "url": "https://github.com/eliorabaev"
+        },
+        {
+            "id": "2",
+            "title": "Cybersecurity ISP Management",
+            "description": "Secure Web Application with Enterprise-Grade Authentication",
+            "imageSrc": "/images/CyberSecurity.png",
+            "url": "https://github.com/eliorabaev"
+        },
+        {
+            "id": "3",
+            "title": "AI-Driven E-commerce Growth",
+            "description": "Productivity & conversion optimization system delivering 100% team efficiency gains",
+            "imageSrc": "/images/Payngo_One.png",
+            "url": "https://payngo.co.il"
+        },
+        {
+            "id": "4",
+            "title": "E-commerce Growth Platform",
+            "description": "Achieved 300% audience growth & 60% lead conversion rates on Magento 2",
+            "imageSrc": "/images/Payngo_2.png",
+            "url": "https://payngo.co.il"
+        }
+    ],
+    "services": [
+        {
+            "id": "1",
+            "title": "Revenue Growth Technology",
+            "description": "Proven track record of doubling department sales and expanding operations by 80% through strategic technology implementations and process optimization."
+        },
+        {
+            "id": "2",
+            "title": "AI-Driven Productivity Solutions",
+            "description": "Delivering 100% productivity increases through AI integration. Built systems that reduce operational time by 50% while maintaining quality standards."
+        },
+        {
+            "id": "3",
+            "title": "E-commerce Growth Strategy",
+            "description": "Specialized in conversion optimization and user engagement. Grew Telegram community from 40K to 120K+ subscribers with 60% conversion rates on daily leads."
+        },
+        {
+            "id": "4",
+            "title": "Performance & Scale Optimization",
+            "description": "Delivered 60% backend performance improvements and 50% faster navigation speeds, directly impacting user experience and business metrics."
+        },
+        {
+            "id": "5",
+            "title": "Team Leadership & Growth",
+            "description": "Successfully managed technology department expansion while maintaining operational excellence and achieving near-zero inventory issues."
+        },
+        {
+            "id": "6",
+            "title": "Full Stack Development",
+            "description": "Expert in React, Python, PHP, and Magento 2, building scalable solutions that support rapid business growth and customer acquisition."
+        }
+    ],
+    "aboutpara": "Growth-focused Full-Stack Developer who doubled department sales and expanded operations by 80% at Electra Consumer Products. In 5+ years, I've driven measurable business results including 100% productivity increases through AI solutions, 300% social media growth (40K to 120K+ Telegram subscribers), and 60% performance improvements. My technical expertise in React, Python, PHP, and Magento 2 is consistently applied to solve real business challenges - from generating 65 daily leads with 60% conversion rates to reducing operational time by 50%. Currently completing B.Sc. Computer Science with 88 GPA, I combine strategic business thinking with deep technical skills to create solutions that directly impact the bottom line and accelerate company growth.",
+    "resume": {
+        "tagline": "👋 I'm a Growth-Driven Full-Stack Developer",
+        "description": "Proven track record of doubling sales, expanding operations by 80%, and delivering 100% productivity increases through strategic technology implementations and AI-driven solutions.",
+        "experiences": [
+            {
+                "id": "1",
+                "dates": "November 2024 - Present",
+                "type": "Full Time",
+                "position": "Fullstack Developer - Magento 2 at Electra Consumer Products",
+                "bullets": "Increased content team productivity by 100% with AI-driven product description generator, Reduced product upload time by 50% through AI-powered summarization, Enhanced customer experience and conversion rates via optimized checkout flows, Built scalable custom Magento 2 modules for business growth"
+            },
+            {
+                "id": "2",
+                "dates": "March 2022 - November 2024",
+                "type": "Full Time",
+                "position": "Web Designer & QA (Product-Focused) at Electra Consumer Products",
+                "bullets": "Grew Telegram channel by 300% from 40K to 120K+ subscribers, Generated 65 daily leads with 60% conversion rate through strategic engagement tools, Achieved 50% faster site navigation improving user experience and sales, Led 30+ feature enhancements directly contributing to measurable sales increases, Reduced product upload time by 30% through workflow optimization"
+            },
+            {
+                "id": "3",
+                "dates": "February 2020 - March 2022",
+                "type": "Full Time",
+                "position": "Technology Department Manager at Electra Consumer Products",
+                "bullets": "Doubled department sales through strategic technology initiatives and process improvements, Expanded department operations by 80% while maintaining operational excellence, Achieved near-zero inventory issues through systematic management improvements, Significantly improved customer satisfaction evidenced by increased 5-star reviews"
+            }
+        ],
+        "education": {
+            "universityName": "HIT - Holon Institute of Technology",
+            "universityDate": "2022 - 2025 (Expected) | Master's in Technology Management (Starting 2025)",
+            "universityPara": "B.Sc. Computer Science with 88 GPA and Excellence Scholarship. Currently starting Master's degree in Technology Management to combine technical expertise with strategic business leadership. Relevant coursework includes Machine Learning, Advanced Programming, Algorithms, and Database Systems, providing strong theoretical foundation complementing practical experience."
+        },
+        "languages": [
+            "JavaScript (ES6+)",
+            "Python",
+            "PHP",
+            "HTML5",
+            "CSS3",
+            "SQL"
+        ],
+        "frameworks": [
+            "React",
+            "FastAPI",
+            "Node.js",
+            "Magento 2",
+            "Express.js",
+            "jQuery"
+        ],
+        "others": [
+            "AWS (EC2, ECR, IAM)",
+            "Docker",
+            "MySQL",
+            "Git",
+            "Linux",
+            "Nginx",
+            "JWT Authentication",
+            "AI/ML Integration"
+        ]
+    }
+}
