@@ -2,6 +2,8 @@
 
 ![Elior Abaev Portfolio Preview](/public/images/Portfolio.png)
 
+## 🚀 Live Portfolio
+### **[View Live Portfolio →](https://portfolio-self-eight-91.vercel.app/)**
 ---
 
 ## 👋 About Me
