@@ -1,7 +1,6 @@
 # Elior Abaev - Full Stack Developer Portfolio
 
-## 🚀 Live Portfolio
-**[View Live Portfolio →](https://eliorabaev.github.io/portfolio)**
+![Elior Abaev Portfolio Preview](/images/portfolio-preview.png)
 
 ---
 
