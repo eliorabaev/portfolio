@@ -1,6 +1,6 @@
 # Elior Abaev - Full Stack Developer Portfolio
 
-![Elior Abaev Portfolio Preview](/images/portfolio-preview.png)
+![Elior Abaev Portfolio Preview](/public/images/Portfolio.png)
 
 ---
 
